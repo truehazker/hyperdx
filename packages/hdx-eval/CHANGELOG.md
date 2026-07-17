@@ -1,5 +1,11 @@
 # @hyperdx/hdx-eval
 
+## 0.2.2
+
+### Patch Changes
+
+- ab9dbcdf: feat(evals): support metric types and seeding
+
 ## 0.2.1
 
 ### Patch Changes
